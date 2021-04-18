@@ -9,3 +9,6 @@
 
 # Warning!
 <p> This is only for education, misusing the program, not borne by the maker. </p>
+
+# Preview Tools
+<img src="log.png">
